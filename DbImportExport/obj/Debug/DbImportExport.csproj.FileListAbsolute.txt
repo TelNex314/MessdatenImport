@@ -1,0 +1,11 @@
+C:\Users\Eckbert\source\repos\dbImportExport\DbImportExport\bin\Debug\DbImportExport.exe.config
+C:\Users\Eckbert\source\repos\dbImportExport\DbImportExport\bin\Debug\DbImportExport.exe
+C:\Users\Eckbert\source\repos\dbImportExport\DbImportExport\bin\Debug\DbImportExport.pdb
+C:\Users\Eckbert\source\repos\dbImportExport\DbImportExport\obj\Debug\DbImportExport.csproj.AssemblyReference.cache
+C:\Users\Eckbert\source\repos\dbImportExport\DbImportExport\obj\Debug\DbImportExport.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eckbert\source\repos\dbImportExport\DbImportExport\obj\Debug\DbImportExport.DbImportExportMainForm.resources
+C:\Users\Eckbert\source\repos\dbImportExport\DbImportExport\obj\Debug\DbImportExport.Properties.Resources.resources
+C:\Users\Eckbert\source\repos\dbImportExport\DbImportExport\obj\Debug\DbImportExport.csproj.GenerateResource.cache
+C:\Users\Eckbert\source\repos\dbImportExport\DbImportExport\obj\Debug\DbImportExport.csproj.CoreCompileInputs.cache
+C:\Users\Eckbert\source\repos\dbImportExport\DbImportExport\obj\Debug\DbImportExport.exe
+C:\Users\Eckbert\source\repos\dbImportExport\DbImportExport\obj\Debug\DbImportExport.pdb
